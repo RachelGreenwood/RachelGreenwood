@@ -13,3 +13,6 @@
 
 <p>Twitter: <a href="https://twitter.com/RachelGreenw00d">@RachelGreenw00d</a></p>
 <img src="https://pbs.twimg.com/profile_images/1659374544472162304/tRvI29Pm_400x400.jpg" alt="A picture of Rachel's Twitter avatar, a photo of Rachel">
+
+<p>LinkedIn: <a href="https://www.linkedin.com/in/rachel-greenwood3301/">Rachel Greenwood</a></p>
+<img src="https://pbs.twimg.com/profile_images/1659374544472162304/tRvI29Pm_400x400.jpg" alt="A picture of Rachel's LinkedIn avatar, a photo of Rachel">
