@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Rachel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?&pause=1000&color=01D29F&width=435&lines=Hey%2C+I'm+Rachel!)](https://git.io/typing-svg)
 
 - Currently a Software Engineering Student at Techtonica, a nonprofit bootcamp for women and non-binary adults
 - Learning the PERN stack
@@ -14,4 +14,4 @@
 <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" alt="A picture of the Discord logo" width="55px"><p>Discord: <a href="https://discordapp.com/users/QueenOfElves#3950">QueenOfElves#3950</a></p>
 
 ### Github Stats
-[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelGreenwood)](https://github.com/anuraghazra/github-readme-stats)
+![Rachels's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelGreenwood&show_icons=true&theme=gotham)
