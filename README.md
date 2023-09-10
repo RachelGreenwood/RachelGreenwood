@@ -6,7 +6,6 @@
 - I run a tech blog on Medium! Check it out here: https://medium.com/@rachelgreenwood3301
 
 ### Let's Connect:
-![The Gmail logo](https://t3.ftcdn.net/jpg/03/86/50/54/360_F_386505487_omkU0kGEhMa3gQ83rVksoXX41AFFfi0K.jpg)
 <img src="https://t3.ftcdn.net/jpg/03/86/50/54/360_F_386505487_omkU0kGEhMa3gQ83rVksoXX41AFFfi0K.jpg" alt="A picture of the Gmail logo" width="55px"><p>Email: rachelgreenwood3301@gmail.com</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="A picture of the LinkedIn logo" width="55px"><p>LinkedIn: <a href="https://www.linkedin.com/in/rachel-greenwood3301/">Rachel Greenwood</a></p>
