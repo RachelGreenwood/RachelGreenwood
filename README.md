@@ -12,7 +12,5 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="A picture of the Twitter logo" width="55px"><p>Twitter: <a href="https://twitter.com/RachelGreenw00d">@RachelGreenw00d</a></p>
 
-<img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" alt="A picture of the Discord logo" width="55px"><p>Discord: <a href="https://discordapp.com/users/QueenOfElves#3950">QueenOfElves#3950</a></p>
-
 ### Github Stats
 ![Rachels's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelGreenwood&show_icons=true&theme=gotham)
