@@ -4,6 +4,7 @@
 - Learning the PERN stack
 - I would love to collaborate with other programmers and contribute more to open source
 - I run a tech blog on Medium! Check it out here: https://medium.com/@rachelgreenwood3301
+- My favorite project, a music theory education app called Melody Minded, can be found here: [Melody Minded](https://github.com/RachelGreenwood/Melody-Minded)
 
 ### Let's Connect:
 <img src="https://t3.ftcdn.net/jpg/03/86/50/54/360_F_386505487_omkU0kGEhMa3gQ83rVksoXX41AFFfi0K.jpg" alt="A picture of the Gmail logo" width="55px"><p>Email: rachelgreenwood3301@gmail.com</p>
